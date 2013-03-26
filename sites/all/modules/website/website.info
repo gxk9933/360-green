@@ -1,0 +1,5 @@
+name = website
+description = "站点功能模块"
+core = 6.x
+package = website
+version = "6.x-0.1"
